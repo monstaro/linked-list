@@ -1,0 +1,54 @@
+body,
+html {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    height: 100%;
+}
+
+.site-left {
+    background-color: #455A64;
+    display: flex;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.content-left {
+    margin: auto;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 4em;
+    text-align: center;
+}
+
+.logo {
+    width: 15%;
+}
+
+.left-form {
+    display: inline-block;
+}
+
+.left-websitetitle-textbox,
+.left-websiteurl-textbox {
+    align-content: center;
+    display: block;
+    color: #CFD8DC;
+    font-size: 1.5em;
+    height: 1.5em;
+    margin-bottom: 2em;
+    width: 20em;
+}
+
+.left-submitbutton {
+    background-color: #FFC107;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 1em;
+    width: 100%;
+    height: 2.5em;
+    margin-bottom: 2em;
+}
