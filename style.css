@@ -52,3 +52,21 @@ h1 {
     height: 2.5em;
     margin-bottom: 2em;
 }
+
+.site-right {
+    background-color: #CFD8DC;
+    display: flex;
+    float: right;
+    height: 100%;
+    width: 50%;
+}
+
+.bookmarks {
+    background-color: #FFFFFF;
+    height: fit-content;
+    margin: 5%;
+    padding: 2%;
+    width: 25%;
+}
+
+.newCard {}
